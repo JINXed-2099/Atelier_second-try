@@ -1,0 +1,13 @@
+# ── User-specific Obsidian files (NEVER track these) ──
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+.obsidian/appearance.json
+
+# ── OS junk ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Obsidian Git plugin conflict file ──
+conflict-files-obsidian-git.md
