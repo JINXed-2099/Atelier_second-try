@@ -20,6 +20,41 @@
         "a": 1,
         "rgb": 0
       }
+    },
+    {
+      "query": "path:WORKSPACE/Codex/1a-Arcanes  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:WORKSPACE/Codex/0-Runes  ",
+      "color": {
+        "a": 1,
+        "rgb": 12326165
+      }
+    },
+    {
+      "query": "path:WORKSPACE/Codex/1b-Wards  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:WORKSPACE/Codex/1c-Rituals  ",
+      "color": {
+        "a": 1,
+        "rgb": 4143933
+      }
+    },
+    {
+      "query": "path:WORKSPACE/Codex/2-Spaces  ",
+      "color": {
+        "a": 1,
+        "rgb": 9387337
+      }
     }
   ],
   "collapse-display": true,
@@ -27,11 +62,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.21177537405272,
   "lineSizeMultiplier": 1.04927780296651,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.454886974544984,
-  "repelStrength": 13.888663145063,
+  "repelStrength": 20,
   "linkStrength": 0.425869551136732,
   "linkDistance": 75,
-  "scale": 0.7132754626224403,
+  "scale": 0.7132754626224395,
   "close": true
 }
