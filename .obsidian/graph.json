@@ -8,23 +8,30 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "file:00-",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 12390159
+      }
+    },
+    {
+      "query": "file:01-",
+      "color": {
+        "a": 1,
+        "rgb": 0
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
+  "nodeSizeMultiplier": 1.21177537405272,
+  "lineSizeMultiplier": 1.04927780296651,
+  "collapse-forces": false,
+  "centerStrength": 0.454886974544984,
+  "repelStrength": 13.888663145063,
+  "linkStrength": 0.425869551136732,
+  "linkDistance": 75,
+  "scale": 0.5087618855792575,
   "close": true
 }
