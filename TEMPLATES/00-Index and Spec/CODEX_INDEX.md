@@ -25,9 +25,9 @@ last_modified: 2026-09-17
 
 ## Recently added
 
-| ID | Action | Date |
-|---|---|---|
-| | | |
+| ID  | Action | Date |
+| --- | ------ | ---- |
+|     |        |      |
 
 ## Dataview query (if using Dataview plugin)
 
